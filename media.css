@@ -18,4 +18,10 @@
     color: #212529 !important;
     font-weight: bold;
 }
+  .col-6{
+    -webkit-box-flex: 0;
+    flex: 0 0 59%;
+    max-width: 58%;
+    display: contents;
+}
 }
