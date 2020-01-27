@@ -468,6 +468,62 @@ pre {
     .container {
       max-width: 1140px; } }
 
+
+.div1{
+      width: 50%;
+      float: left;
+    }
+    .div1 img{
+      width: 100%;
+    }
+    .div2{
+      width: 50%;
+      float: right;
+      display: flex;
+      flex-direction: column;
+    }
+    .part1,.part2{
+      display: inline-block;
+      margin-bottom: 10%;
+    }
+.posters{
+  width: 100%;
+  height: 400px;
+  margin-bottom: 10%;
+}
+@media (max-width: 700px){
+  .posters{
+    height: 200px;
+  }
+}
+
+.img1{
+  width: 40%;
+  margin-left: 5%;
+}
+.img2{
+  width: 40%;
+  height: 170px;
+   margin-left: 5%;
+}
+.part2 img{
+  width: 40%;
+  margin-left: 5%;
+}
+@media (max-width: 700px){
+.pic1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.img2{
+  height:52px;
+}
+.pic{
+  width: 100%;
+  margin: 2%;
+}
+}
 .container-fluid {
   width: 100%;
   padding-right: 15px;
