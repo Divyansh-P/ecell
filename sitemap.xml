@@ -8,8 +8,19 @@
 
 
 <url>
-  <loc>https://ecell-nith.github.io/ecell/</loc>
-  <lastmod>2020-01-14T20:17:26+00:00</lastmod>
+  <loc>https://ecellnith.org/</loc>
+  <lastmod>2020-02-01T04:47:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ecellnith.org/sip_changes_coz_of_google_form_link_1-feb-2020.html</loc>
+  <lastmod>2020-02-01T04:47:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ecellnith.org/workshop/project.html</loc>
+  <lastmod>2020-02-01T04:47:15+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
