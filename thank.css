@@ -1,0 +1,20 @@
+body{
+	   color: white;
+	   background-color: grey;
+   
+}
+.thank{
+	width: 30%;
+	margin: auto;
+	margin-top: 20%;
+	text-align: center;
+    
+}
+}
+ .thank h1{
+	font-size: 60px;
+   
+}
+.thank p{
+	font-size: 18px;
+}
